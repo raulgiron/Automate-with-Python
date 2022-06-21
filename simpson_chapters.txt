@@ -1,0 +1,59 @@
+    No.overall  No. inseason                                Title  \
+0            1             1  "Simpsons Roasting on an Open Fire"   
+1            2             2                    "Bart the Genius"   
+2            3             3                    "Homer's Odyssey"   
+3            4             4      "There's No Disgrace Like Home"   
+4            5             5                   "Bart the General"   
+5            6             6                       "Moaning Lisa"   
+6            7             7           "The Call of the Simpsons"   
+7            8             8                  "The Telltale Head"   
+8            9             9              "Life on the Fast Lane"   
+9           10            10                  "Homer's Night Out"   
+10          11            11                "The Crepes of Wrath"   
+11          12            12                 "Krusty Gets Busted"   
+12          13            13             "Some Enchanted Evening"   
+
+                           Directed by  \
+0                      David Silverman   
+1                      David Silverman   
+2                        Wesley Archer   
+3       Gregg Vanzo & Kent Butterworth   
+4                      David Silverman   
+5                        Wesley Archer   
+6                        Wesley Archer   
+7                           Rich Moore   
+8                      David Silverman   
+9                           Rich Moore   
+10         Wesley Archer & Milton Gray   
+11                           Brad Bird   
+12  David Silverman & Kent Butterworth   
+
+                                           Written by  Original air date  \
+0                                           Mimi Pond  December 17, 1989   
+1                                           Jon Vitti   January 14, 1990   
+2                      Jay Kogen & Wallace Wolodarsky   January 21, 1990   
+3                                Al Jean & Mike Reiss   January 28, 1990   
+4                                   John Swartzwelder   February 4, 1990   
+5                                Al Jean & Mike Reiss  February 11, 1990   
+6                                   John Swartzwelder  February 18, 1990   
+7      Al Jean, Mike Reiss, Sam Simon & Matt Groening  February 25, 1990   
+8                                   John Swartzwelder     March 18, 1990   
+9                                           Jon Vitti     March 25, 1990   
+10  George Meyer, Sam Simon, John Swartzwelder & J...     April 15, 1990   
+11                     Jay Kogen & Wallace Wolodarsky     April 29, 1990   
+12                          Matt Groening & Sam Simon       May 13, 1990   
+
+   Prod.code U.S. viewers(millions)  
+0       7G08               26.7[45]  
+1       7G02               24.5[45]  
+2       7G03               27.5[46]  
+3       7G04               20.2[47]  
+4       7G05               27.1[48]  
+5       7G06               27.4[49]  
+6       7G09               27.6[50]  
+7       7G07                 28[51]  
+8       7G11               33.5[52]  
+9       7G10               30.3[53]  
+10      7G13               31.2[54]  
+11      7G12               30.4[55]  
+12      7G01               27.1[56]  /n
